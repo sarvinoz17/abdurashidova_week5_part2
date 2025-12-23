@@ -36,5 +36,4 @@ int main() {
         cout << "The average is " << total / countAll << endl;
     }
 
-    return 0;
-}
+    return 0;}
